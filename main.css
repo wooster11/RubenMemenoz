@@ -1,11 +1,22 @@
 .mdl-grid {
-	max-width: 67%;
+	max-width: 70%;
+}
+
+.mdl-card {
+    width: 95%;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .mdl-card__media {
     margin: 0;
+    padding: 0;
 }
 
 .mdl-card__media > img {
   max-width: 100%;
+}
+
+h1 {
+    color: #424242;
 }
